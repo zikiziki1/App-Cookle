@@ -1,4 +1,4 @@
-# App-ProjetCommercial-2
+# App Cookle-ProjetCommercial-2
 Cette application est un projet personnel à visée commerciale et éducative. 
 Il s'agit d'une application pouvant:
 1- Générer une recette culinaire n'existant pas déjà ( API request ChatGpt) ainsi qu'une photo du plat. La ou les recettes générées peuvent être enregistrées dans des dossiers favoris ou nommés à loisir afin d'être sauvegardées et partagées.
